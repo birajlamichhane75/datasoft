@@ -1,0 +1,32 @@
+[
+  {
+      "country": "USA",
+      "value": "2.920",
+      "percent": "53.23%"
+  },
+  {
+      "country": "Germany",
+      "value": "1.300",
+      "percent": "20.43%"
+  },
+  {
+      "country": "Australia",
+      "value": "760",
+      "percent": "10.35%"
+  },
+  {
+      "country": "United Kingdom",
+      "value": "690",
+      "percent": "7.87%"
+  },
+  {
+      "country": "Romania",
+      "value": "600",
+      "percent": "5.94%"
+  },
+  {
+      "country": "Brasil",
+      "value": "550",
+      "percent": "4.34%"
+  }
+]
